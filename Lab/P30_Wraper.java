@@ -1,4 +1,4 @@
-public class Program30_Wrapper {
+public class P30_Wraper {
     public static void main(String[] args) {
         int a = 10;
         System.out.println("Value of a = " + a);
